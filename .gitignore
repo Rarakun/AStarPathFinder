@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AStarPathFinder/v14
+/AutomatedTests/bin/Debug
+/AutomatedTests/obj/Debug
+/Core/bin/Debug
+/Core/obj/Debug
